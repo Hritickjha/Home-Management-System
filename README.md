@@ -31,8 +31,5 @@ Copy code
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request. Ensure that your code follows the project's style guidelines and includes appropriate tests.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or inquiries, please contact [your-email@example.com].
